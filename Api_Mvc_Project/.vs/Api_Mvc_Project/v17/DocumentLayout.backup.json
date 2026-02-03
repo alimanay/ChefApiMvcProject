@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\api_mvc_project\\api_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|solutionrelative:api_project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Api_Project\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Api_Project\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T17:18:23.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
