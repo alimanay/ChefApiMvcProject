@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\",
+  "WorkspaceRootPath": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\ChefApiMvcProject\\Api_Mvc_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\api_mvc_project\\api_project\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|solutionrelative:api_project\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\api_mvc_project\\api_project\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|solutionrelative:api_project\\controllers\\chefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\api_mvc_project\\api_project\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\chefapimvcproject\\api_mvc_project\\api_project\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|solutionrelative:api_project\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\api_mvc_project\\api_project\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|solutionrelative:api_project\\controllers\\featurescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\api_mvc_project\\api_project\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|solutionrelative:api_project\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|c:\\users\\alima\\desktop\\githubprojeler\\api_mvc_project\\api_mvc_project\\api_project\\dtos\\messagedtos\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7171A7F-5293-42AC-9EB8-B90E8DB9CACF}|Api_Project\\Api_Project.csproj|solutionrelative:api_project\\dtos\\messagedtos\\createmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Api_Project\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Api_Project\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAhwC8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T17:09:20.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChefController.cs",
-              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\ChefController.cs",
-              "RelativeDocumentMoniker": "Api_Project\\Controllers\\ChefController.cs",
-              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\ChefController.cs",
-              "RelativeToolTip": "Api_Project\\Controllers\\ChefController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwEwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T17:09:16.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\ChefApiMvcProject\\Api_Mvc_Project\\Api_Project\\Controllers\\ContactsController.cs",
               "RelativeDocumentMoniker": "Api_Project\\Controllers\\ContactsController.cs",
-              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\ChefApiMvcProject\\Api_Mvc_Project\\Api_Project\\Controllers\\ContactsController.cs",
               "RelativeToolTip": "Api_Project\\Controllers\\ContactsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCIAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T17:09:15.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FeaturesController.cs",
-              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\FeaturesController.cs",
-              "RelativeDocumentMoniker": "Api_Project\\Controllers\\FeaturesController.cs",
-              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Controllers\\FeaturesController.cs",
-              "RelativeToolTip": "Api_Project\\Controllers\\FeaturesController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwDwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:31:18.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GeneralMapping.cs",
-              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Mapping\\GeneralMapping.cs",
-              "RelativeDocumentMoniker": "Api_Project\\Mapping\\GeneralMapping.cs",
-              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\Mapping\\GeneralMapping.cs",
-              "RelativeToolTip": "Api_Project\\Mapping\\GeneralMapping.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:21:15.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateMessageDto.cs",
-              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\DTOs\\MessageDtos\\CreateMessageDto.cs",
-              "RelativeDocumentMoniker": "Api_Project\\DTOs\\MessageDtos\\CreateMessageDto.cs",
-              "ToolTip": "C:\\Users\\alima\\Desktop\\GitHubProjeler\\API_MVC_PROJECT\\Api_Mvc_Project\\Api_Project\\DTOs\\MessageDtos\\CreateMessageDto.cs",
-              "RelativeToolTip": "Api_Project\\DTOs\\MessageDtos\\CreateMessageDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T15:20:11.65Z",
+              "WhenOpened": "2026-02-08T14:23:13.354Z",
               "EditorCaption": ""
             }
           ]

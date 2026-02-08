@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Api_Project",
+    "\\Api_Project\\Controllers"
   ],
-  "SelectedNode": "\\Api_Mvc_Project.sln",
+  "SelectedNode": "\\Api_Project\\Controllers\\CategoriesController.cs",
   "PreviewInSolutionExplorer": false
 }
